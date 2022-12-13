@@ -1,3 +1,5 @@
+// Made by aadhaar koul
+// 5th semester cse dept
 #include<stdio.h>  
 #include<math.h>  
   
